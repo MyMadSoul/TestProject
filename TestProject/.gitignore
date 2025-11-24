@@ -1,0 +1,72 @@
+gitignore
+# Compiled class files
+*.class
+
+# Eclipse files
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific (c/c++)
+.cproject
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific (php)
+.buildpath
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE files
+.idea/
+*.iws
+*.iml
+
+# VS Code
+.vscode/
+
+# Tomcat
+logs/
+work/
+temp/
